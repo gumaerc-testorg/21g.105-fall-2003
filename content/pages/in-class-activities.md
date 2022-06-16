@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section written in English and Chinese.
 learning_resource_types: []
 ocw_type: CourseSection
 title: In-class Activities
