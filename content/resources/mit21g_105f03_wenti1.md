@@ -6,6 +6,7 @@ file: /courses/21g-105-chinese-v-regular-chinese-cultures-society-fall-2003/b5e0
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "\u5F55\u50CF\u95EE\u9898-1"
 uid: b5e0ecc9-a51f-a0a1-8f53-7c44f2a9e74b
 ---
 This resource contains the information regarding 录像问题-1.
-

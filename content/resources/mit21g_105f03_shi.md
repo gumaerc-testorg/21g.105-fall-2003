@@ -5,6 +5,7 @@ file: /courses/21g-105-chinese-v-regular-chinese-cultures-society-fall-2003/1988
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: shi
 uid: 19883f47-ba57-70fc-e9dd-a602423b6c35
 ---
 This resource contains the information regarding shi.
-

@@ -5,6 +5,7 @@ file: /courses/21g-105-chinese-v-regular-chinese-cultures-society-fall-2003/828b
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: zhufu-2
 uid: 828b95af-e01d-f51b-e011-ed49df146835
 ---
 This resource contains the information regarding zhufu-2.
-
