@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section written in English and Chinese.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: bb042587-4066-8c92-9303-53ec0a112932
 ---
@@ -466,8 +470,8 @@ Stellar reading and asking questions on the messages.
 
 ### 中国教育状况
 
-录像练习-1      ([PDF]({{< baseurl >}}/resources/mit21g_105f03_wenti1))  
-录像1-6词汇    ([PDF]({{< baseurl >}}/resources/mit21g_105f03_77ent))  
+录像练习-1      ({{% resource_link b5e0ecc9-a51f-a0a1-8f53-7c44f2a9e74b "PDF" %}})  
+录像1-6词汇    ({{% resource_link cb20ae4b-f6ca-ef43-2956-af0ca552df9f "PDF" %}})  
 录像-1     ([MP4 - 2MB](http://www.archive.org/details/MIT21F.105F03/77_entrance_exam-220k.mp4))  
 录像-2     ([MP4 - 2MB](http://www.archive.org/details/MIT21F.105F03/77_entrance_exam-2-220k.mp4))  
 录像-3     ([MP4 - 3MB](http://www.archive.org/details/MIT21F.105F03/chengeds_since_77-220k.mp4))  
@@ -481,16 +485,16 @@ Stellar reading and asking questions on the messages.
 ### 放地雷的小男孩儿
 
 录音     ([MP3 - 8MB](https://archive.org/download/MIT21F.105F03/fang_dilei_luyin-16k.mp3))  
-练习-1  ([PDF]({{< baseurl >}}/resources/mit21g_105f03_fang))
+练习-1  ({{% resource_link 50a51ee4-2ce1-7cb3-8e1b-4021ddda9c4d "PDF" %}})
 
 ### 诗歌
 
-诗歌-1  ([PDF]({{< baseurl >}}/resources/mit21g_105f03_shi))
+诗歌-1  ({{% resource_link 19883f47-ba57-70fc-e9dd-a602423b6c35 "PDF" %}})
 
 ### 祝福
 
-问题-1     ([PDF]({{< baseurl >}}/resources/mit21g_105f03_zhufu1))  
-问题-2     ([PDF]({{< baseurl >}}/resources/mit21g_105f03_zhufu2))
+问题-1     ({{% resource_link 67c2e769-93e1-eb5d-4ee7-78fcad711865 "PDF" %}})  
+问题-2     ({{% resource_link 828b95af-e01d-f51b-e011-ed49df146835 "PDF" %}})
 
 ### 文化大革命
 

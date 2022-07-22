@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section written in English and Chinese.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 2f58ebea-2598-9214-9133-5c872ddeb632
 ---

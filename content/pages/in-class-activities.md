@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section written in English and Chinese.
+learning_resource_types: []
+ocw_type: CourseSection
 title: In-class Activities
 uid: 544e0e0a-739d-29b3-2bb2-1ca22f92964e
 ---
