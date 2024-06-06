@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding shi.
 file: /courses/21g-105-chinese-v-regular-chinese-cultures-society-fall-2003/19883f47ba5770fce9dda602423b6c35_MIT21G_105F03_shi.pdf
+file_size: 615393
 file_type: application/pdf
 learning_resource_types:
 - Assignments
