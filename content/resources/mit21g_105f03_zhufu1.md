@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding zhufu-1.
 file: /courses/21g-105-chinese-v-regular-chinese-cultures-society-fall-2003/67c2e76993e1eb5d4ee778fcad711865_MIT21G_105F03_zhufu1.pdf
+file_size: 570960
 file_type: application/pdf
 learning_resource_types:
 - Assignments
