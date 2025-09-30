@@ -472,19 +472,19 @@ Stellar reading and asking questions on the messages.
 
 录像练习-1      ({{% resource_link b5e0ecc9-a51f-a0a1-8f53-7c44f2a9e74b "PDF" %}})  
 录像1-6词汇    ({{% resource_link cb20ae4b-f6ca-ef43-2956-af0ca552df9f "PDF" %}})  
-录像-1     ([MP4 - 2MB](http://www.archive.org/details/MIT21F.105F03/77_entrance_exam-220k.mp4))  
-录像-2     ([MP4 - 2MB](http://www.archive.org/details/MIT21F.105F03/77_entrance_exam-2-220k.mp4))  
-录像-3     ([MP4 - 3MB](http://www.archive.org/details/MIT21F.105F03/chengeds_since_77-220k.mp4))  
-录像-4     ([MP4](http://www.archive.org/details/MIT21F.105F03/CR_education-1-220k.mp4))  
-录像-5     ([MP4](http://www.archive.org/details/MIT21F.105F03/CR_education-2-220k.mp4))  
-录像-6     ([MP4](http://www.archive.org/details/MIT21F.105F03/CR_education-3-220k.mp4))  
-录像-7     ([MP4](http://www.archive.org/details/MIT21F.105F03/shuangxiang_choose-220k.mp4))  
-录像-8     ([MP4 - 2MB](http://www.archive.org/details/MIT21F.105F03/students_in_1999s-220k.mp4))  
-录像-9     ([MP4](http://www.archive.org/details/MIT21F.105F03/what_students_are_thinking-220k.mp4))
+录像-1     ({{% resource_link "6dcb718e-4ec6-44ea-b44e-8d359ec66584" "MP4 - 2MB" %}})  
+录像-2     ({{% resource_link "b478a886-d972-44fa-90ab-3f0472db2e48" "MP4 - 2MB" %}})  
+录像-3     ({{% resource_link "edc83b64-3275-4d91-b048-0c883b67d650" "MP4 - 3MB" %}})  
+录像-4     ({{% resource_link "fade5417-7822-41ca-b28f-da92072159e5" "MP4" %}})  
+录像-5     ({{% resource_link "db85db6b-b540-4ce6-9de8-606cc3edab4c" "MP4" %}})  
+录像-6     ({{% resource_link "6625b283-7b01-496f-ad88-bffc5029e306" "MP4" %}})  
+录像-7     ({{% resource_link "48e1f5a9-7d5c-40e3-8489-ddc14714bfdb" "MP4" %}})  
+录像-8     ({{% resource_link "0886555a-5958-4b7e-8606-e4ecbdb77718" "MP4 - 2MB" %}})  
+录像-9     ({{% resource_link "52d703a7-6c42-4436-bd74-5235020e969b" "MP4" %}})
 
 ### 放地雷的小男孩儿
 
-录音     ([MP3 - 8MB](https://archive.org/download/MIT21F.105F03/fang_dilei_luyin-16k.mp3))  
+录音     ({{% resource_link "efe1fe5e-8a90-408a-8c72-5af5551dccd1" "MP3 - 8MB" %}})  
 练习-1  ({{% resource_link 50a51ee4-2ce1-7cb3-8e1b-4021ddda9c4d "PDF" %}})
 
 ### 诗歌
@@ -498,6 +498,6 @@ Stellar reading and asking questions on the messages.
 
 ### 文化大革命
 
-文革起因-1     ([MP4](http://www.archive.org/details/MIT21F.105F03/REASONC1SM-220k.mp4))  
-文革起因-2     ([MP4 - 4MB](http://www.archive.org/details/MIT21F.105F03/REASONC2SM-220k.mp4))  
-文革起因-3     ([MP4](http://www.archive.org/details/MIT21F.105F03/REASONC3SM-220k.mp4))
+文革起因-1     ({{% resource_link "b6ea8fe1-1406-41c6-923a-608555c469d4" "MP4" %}})  
+文革起因-2     ({{% resource_link "e3c645ec-ecc4-4a68-bedb-6db4555f9805" "MP4 - 4MB" %}})  
+文革起因-3     ({{% resource_link "07929a19-e2fa-4c72-81db-b2ba8a35f315" "MP4" %}})
